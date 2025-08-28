@@ -10,3 +10,6 @@ def fn():
 
 def fn2():
     pass
+
+def fn3():
+    pass
