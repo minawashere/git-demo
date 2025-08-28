@@ -1,2 +1,6 @@
-print("hi")
-print("2nd commit")
+from file import foo
+
+
+if __name__ == "__main__":
+    foo()
+    print("main")
