@@ -13,3 +13,6 @@ def fn2():
 
 def fn3():
     pass
+
+def fn4():
+    pass
