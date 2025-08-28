@@ -7,3 +7,6 @@ if __name__ == "__main__":
     
 def fn():
     pass
+
+def fn2():
+    pass
